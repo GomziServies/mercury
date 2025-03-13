@@ -537,7 +537,7 @@ label {
   padding: 25px 0;
 }
 .logo img {
-  max-width: 154px;
+  max-width: 131px;
 }
 .menu-nav {
   display: flex;
@@ -819,6 +819,7 @@ label {
   top: 0;
   width: 100%;
   z-index: 99;
+  padding: 10px 0px !important;
   background: #fff;
   -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
   animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
@@ -4568,6 +4569,7 @@ label {
 .inner-shop-details-nav-wrap .nav-tabs {
   border: none;
   flex-wrap: nowrap;
+  justify-content: center;
   margin-left: -7px;
   margin-right: -7px;
 }
@@ -6795,4 +6797,17 @@ label {
   -webkit-animation: loader-inner 1s cubic-bezier(0.42, 0.61, 0.58, 0.41)
     infinite;
   animation: loader-inner 1s cubic-bezier(0.42, 0.61, 0.58, 0.41) infinite;
+}
+
+.footer-info-list, .footer-widget .social-links, .footer-widget .icon {
+  color: #aeaeae;
+}
+
+.footer-info-list a, .footer-info-list .address, .footer-widget .text, .footer-widget .mobile {
+  color: #aeaeae;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.footer-info-list .address {
+  line-height: 1.5em;
 }

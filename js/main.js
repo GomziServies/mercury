@@ -107,6 +107,17 @@
 			$('.scroll-to-target').addClass('open');
 		}
 	});
+	$(window).on('scroll', function () {
+		var scroll = $(window).scrollTop();
+		if (scroll < 245) {
+			$("#sticky-header-1").removeClass("sticky-menu");
+			$('.scroll-to-target').removeClass('open');
+
+		} else {
+			$("#sticky-header-1").addClass("sticky-menu");
+			$('.scroll-to-target').addClass('open');
+		}
+	});
 
 
 	/*=============================================
