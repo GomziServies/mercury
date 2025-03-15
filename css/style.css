@@ -149,7 +149,7 @@ li {
   list-style: none;
 }
 p {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
   line-height: 26px;
   color: #777777;
@@ -266,7 +266,7 @@ label {
 .header-style-two.sticky-menu .navbar-wrap > ul > li.active > a,
 .header-style-two.sticky-menu .navbar-wrap > ul > li:hover > a,
 .breadcrumb > .active {
-  color: #ff5600;
+  color: #ffb22b;
 }
 
 .header-shop-cart .minicart .checkout-link a,
@@ -283,7 +283,7 @@ label {
 .widget-tag ul li a:hover,
 .blog-details-content blockquote,
 .d-post-tag ul li a:hover {
-  background: #ff5600;
+  background: #ffb22b;
 }
 
 .capsule-header .navbar-wrap > ul > li.active > a,
@@ -724,9 +724,9 @@ label {
   border-radius: 50%;
 }
 .header-action > ul li.offcanvas-btn a i {
-  background-image: -moz-linear-gradient(to right, #ff5600 40%, #ffa705 50%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 40%, #ffa705 50%);
-  background-image: linear-gradient(to right, #ff5600 40%, #ffa705 50%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 40%, #ffa705 50%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 40%, #ffa705 50%);
+  background-image: linear-gradient(to right, #ffb22b 40%, #ffa705 50%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -789,7 +789,7 @@ label {
   width: 0;
   height: 2px;
   top: 20px;
-  background: #ff5600;
+  background: #ffb22b;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -805,7 +805,7 @@ label {
   padding-left: 45px;
 }
 .navbar-wrap > ul > li .submenu li.active > a {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .navbar-wrap ul li:hover > .submenu {
   opacity: 1;
@@ -838,9 +838,9 @@ label {
 }
 .sticky-menu .header-shop-cart a span {
   background: transparent;
-  background-image: -moz-linear-gradient(to right, #ff5600 0%, #ffa705 100%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 0%, #ffa705 100%);
-  background-image: linear-gradient(to right, #ff5600 0%, #ffa705 100%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 0%, #ffa705 100%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 0%, #ffa705 100%);
+  background-image: linear-gradient(to right, #ffb22b 0%, #ffa705 100%);
   color: #fff;
 }
 .header-style-two .navbar-wrap ul li a {
@@ -1247,9 +1247,9 @@ label {
   cursor: pointer;
   display: none;
   background-color: transparent;
-  background-image: -moz-linear-gradient(to right, #ff5600 0%, #ffa705 100%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 0%, #ffa705 100%);
-  background-image: linear-gradient(to right, #ff5600 0%, #ffa705 100%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 0%, #ffa705 100%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 0%, #ffa705 100%);
+  background-image: linear-gradient(to right, #ffb22b 0%, #ffa705 100%);
   color: #fff;
   width: 50px;
   height: 50px;
@@ -1292,7 +1292,7 @@ label {
 .search-form input {
   width: 100%;
   border: none;
-  border-bottom: 1px solid #ff5600;
+  border-bottom: 1px solid #ffb22b;
   padding: 10px 50px 20px;
   text-align: center;
   font-weight: 500;
@@ -1309,7 +1309,7 @@ label {
   background: transparent;
   border: 0;
   font-size: 25px;
-  color: #ff5600;
+  color: #ffb22b;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -1318,7 +1318,7 @@ label {
   top: 5%;
   right: 5%;
   font-size: 30px;
-  color: #ff5600;
+  color: #ffb22b;
   cursor: pointer;
 }
 
@@ -1442,9 +1442,9 @@ label {
   bottom: 0;
   width: 40px;
   height: 3px;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
 }
 .sidebar-off-canvas .contact-info ul li {
   font-size: 14px;
@@ -1457,7 +1457,7 @@ label {
 .sidebar-off-canvas .contact-info ul li i {
   font-size: 18px;
   margin-right: 10px;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .sidebar-off-canvas .contact-info ul li a {
   color: #676565;
@@ -1503,7 +1503,7 @@ label {
   padding: 19px 36px;
 }
 .oc-newsletter form button:hover {
-  background: #ff5600;
+  background: #ffb22b;
   color: #fff;
 }
 .oc-social ul {
@@ -1521,7 +1521,7 @@ label {
   display: block;
 }
 .oc-social ul li a:hover {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .oc-bottom {
   display: flex;
@@ -1668,9 +1668,9 @@ label {
   padding-left: 15px;
   line-height: 1.5;
   display: inline-block;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -2093,9 +2093,9 @@ label {
   top: 0;
   width: 100%;
   height: 4px;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   transition: 0.4s ease-out;
   opacity: 0;
 }
@@ -2320,7 +2320,7 @@ label {
   position: absolute;
   left: 0;
   right: 0;
-  max-width: 350px;
+  max-width: 100%;
   margin: -45px auto 0;
 }
 .sup-info-img .img-shape {
@@ -2457,9 +2457,9 @@ label {
   }
 }
 .video-item .popup-video i {
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -2871,9 +2871,9 @@ label {
   font-size: 24px;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -3313,9 +3313,9 @@ label {
   letter-spacing: -3px;
   margin-bottom: 8px;
   display: inline-block;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -3387,9 +3387,9 @@ label {
   color: #999999;
 }
 .pricing-box.best-pack .pricing-bottom > p > span {
-  background-image: -moz-linear-gradient(to right, #ff5600 20%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 20%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 20%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 20%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 20%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 20%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -4108,9 +4108,9 @@ label {
   line-height: 1;
   font-size: 36px;
   letter-spacing: -0.8px;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -4366,11 +4366,11 @@ label {
   margin-bottom: 12px;
 }
 .inner-shop-content .title a:hover {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .inner-shop-content .price {
   font-size: 18px;
-  color: #ff5600;
+  color: #ffb22b;
   font-weight: 600;
   display: block;
   line-height: 1;
@@ -4399,9 +4399,9 @@ label {
   width: 15px;
   top: 0;
   margin-top: -6px;
-  background: #ff5600;
+  background: #ffb22b;
   border-radius: 50px;
-  border: 1px solid #ff5600;
+  border: 1px solid #ffb22b;
 }
 .price_filter .ui-slider-handle.ui-state-default.ui-corner-all:focus {
   outline: none;
@@ -4439,13 +4439,13 @@ label {
   color: #fff;
   font-size: 15px;
   text-align: center;
-  background: #ff5600;
+  background: #ffb22b;
   font-weight: 700;
   justify-content: center;
   border-radius: 0;
 }
 .price_slider_amount > input[type="submit"]:hover {
-  color: #ff5600;
+  color: #ffb22b;
   background: #222;
 }
 .shop-sidebar .widget .sidebar-title {
@@ -4467,7 +4467,7 @@ label {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #ff5600;
+  background: #ffb22b;
 }
 .widget .categories-list li:last-child {
   margin-bottom: 0;
@@ -4486,7 +4486,7 @@ label {
   transition: 0.3s linear;
 }
 .widget .categories-list li a:hover {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .lp-post-list .lp-post-item li {
   display: flex;
@@ -4508,11 +4508,11 @@ label {
   text-transform: capitalize;
 }
 .lp-post-content .title a:hover {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .lp-post-content .price {
   font-size: 14px;
-  color: #ff5600;
+  color: #ffb22b;
   font-weight: 600;
   display: block;
   line-height: 1;
@@ -4536,7 +4536,7 @@ label {
   font-weight: 500;
 }
 .Product-tag-list li a:hover {
-  background: #ff5600;
+  background: #ffb22b;
   color: #fff;
 }
 .shop-widget-banner img {
@@ -4627,7 +4627,7 @@ label {
   margin: 27px 0 23px;
 }
 .inner-shop-details-price .price {
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 0.9;
   margin-bottom: 0;
@@ -4647,7 +4647,7 @@ label {
 .inner-shop-details-list ul li {
   padding-left: 22px;
   position: relative;
-  font-size: 15px;
+  font-size: 18px;
   color: #777777;
   margin-top: 5px;
   font-weight: 500;
@@ -4664,7 +4664,7 @@ label {
   top: 1.2px;
   font-family: "Font Awesome 5 Pro";
   font-weight: 700;
-  color: #ff5600;
+  color: #ffb22b;
   font-size: 14px;
 }
 .inner-shop-perched-info {
@@ -4675,14 +4675,13 @@ label {
 .inner-shop-perched-info > .cart-btn {
   display: inline-flex;
   align-items: center;
-  border: 1px solid #ff5600;
-  background: #ff5600;
+  border: 1px solid #ffb22b;
+  background: #ffb22b;
   border-radius: 5px;
-  font-size: 13px;
+  font-size: 18px;
   font-weight: 600;
   color: #fff;
   padding: 12px 16px;
-  min-width: 145px;
   justify-content: center;
   margin-bottom: 12px;
   margin-right: 12px;
@@ -4694,7 +4693,7 @@ label {
   width: 45px;
   text-align: center;
   line-height: 45px;
-  background: #ff5600;
+  background: #ffb22b;
   color: #fff;
   border-radius: 5px;
 }
@@ -4703,7 +4702,7 @@ label {
 }
 .inner-shop-perched-info > .cart-btn:hover {
   background: transparent;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .inner-shop-details-bottom {
   margin-top: 23px;
@@ -4714,7 +4713,7 @@ label {
   display: block;
   margin-bottom: 10px;
   color: #777777;
-  font-size: 15px;
+  font-size: 18px;
 }
 .inner-shop-details-bottom ul li:last-child {
   margin-bottom: 0;
@@ -4728,7 +4727,7 @@ label {
   margin-right: 3px;
 }
 .inner-shop-details-bottom ul li a:hover {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .product-desc-wrap {
   padding-top: 85px;
@@ -4745,7 +4744,7 @@ label {
   color: #696868;
   padding: 0 0 12px;
   position: relative;
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 700;
 }
 .product-desc-wrap .nav-tabs .nav-link.active {
@@ -4760,8 +4759,8 @@ label {
   left: 0;
   bottom: -1px;
   width: 100%;
-  height: 2px;
-  background: #ff5600;
+  height: 4px;
+  background: #ffb22b;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -4776,12 +4775,12 @@ label {
   margin-bottom: 0;
 }
 .product-desc-content .title {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   margin-bottom: 13px;
 }
 .product-desc-content p {
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 25px;
 }
 .product-desc-list {
@@ -4822,7 +4821,7 @@ label {
 }
 .product-desc-content .table-sm th {
   color: #222;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: capitalize;
 }
@@ -4830,6 +4829,7 @@ label {
   color: #777777;
   font-weight: 500;
   font-style: italic;
+  font-size: 18px;
 }
 .reviews-comment .review-info {
   display: flex;
@@ -4884,7 +4884,7 @@ label {
   font-size: 16px;
 }
 .add-review p span {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .add-review .from-grp {
   margin-bottom: 25px;
@@ -4899,7 +4899,7 @@ label {
   margin-bottom: 6px;
 }
 .add-review .from-grp label span {
-  color: #ff5600;
+  color: #ffb22b;
 }
 .add-review .from-grp input,
 .add-review .from-grp textarea {
@@ -5040,9 +5040,9 @@ label {
   justify-content: flex-end;
   font-size: 16px;
   font-weight: 700;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -5055,9 +5055,9 @@ label {
   bottom: 0;
   width: 100%;
   height: 1px;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
 }
 .protein-cta .cta-content .make-order {
   background-image: none;
@@ -5389,7 +5389,7 @@ label {
 .blog--post--content {
   padding: 50px 45px;
   background: #fff;
-  border: 2px solid #f5f5f5;
+  border: 4px solid #f5f5f5;
 }
 .blog--tag {
   margin-bottom: 22px;
@@ -5433,7 +5433,7 @@ label {
 .blog--post--meta ul li span i,
 .blog--post--meta ul li a i {
   margin-right: 7px;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .blog--post--content > p {
   margin-bottom: 35px;
@@ -5656,7 +5656,7 @@ label {
 }
 .rc-post-date span i {
   margin-right: 7px;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .rc-post:last-child {
   padding-bottom: 0;
@@ -5798,7 +5798,7 @@ label {
 .blog--post--meta ul li > i {
   margin-right: 7px;
   font-size: 14px;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .blog-details-post-thumb {
   padding-top: 25px;
@@ -5834,7 +5834,7 @@ label {
   font-weight: 500;
   font-size: 16px;
   margin-top: 5px;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .blog-details-content blockquote {
   margin: 35px 0;
@@ -5928,7 +5928,7 @@ label {
   font-weight: 700;
   display: block;
   margin-bottom: 5px;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .blog-post-navigation .prev-link h4,
 .blog-post-navigation .next-link h4 {
@@ -5956,7 +5956,7 @@ label {
   line-height: 1.32;
 }
 .rp-content .rp-date i {
-  color: #ff5600;
+  color: #ffb22b;
   margin-right: 5px;
 }
 .rp-content p {
@@ -6047,7 +6047,7 @@ label {
 }
 .single-comment.children .avatar-name h6 i {
   font-size: 12px;
-  color: #ff5600;
+  color: #ffb22b;
   margin-left: 7px;
 }
 .comment-form {
@@ -6094,7 +6094,7 @@ label {
   color: #fff;
   border-radius: 0;
   margin-top: 10px;
-  background: #ff5600;
+  background: #ffb22b;
   padding: 21px 40px 21px 40px;
 }
 .comment-form .btn i {
@@ -6150,7 +6150,7 @@ label {
 .pagination-wrap ul li a:hover,
 .pagination-wrap ul li.active a {
   color: #fff;
-  border-color: #ff5600;
+  border-color: #ffb22b;
 }
 .pagination-wrap ul li.prv-next a,
 .pagination-wrap ul li.prv-right a {
@@ -6276,7 +6276,7 @@ label {
   position: absolute;
   right: 40px;
   top: 26px;
-  color: #ff5600;
+  color: #ffb22b;
 }
 .contact-form-wrap .form-grp .custom-select {
   border: none;
@@ -6315,7 +6315,7 @@ label {
 }
 .contact-info-box-head {
   padding: 35px 40px;
-  background: #ff5600;
+  background: #ffb22b;
 }
 .contact-info-box-content {
   padding: 45px 40px;
@@ -6324,14 +6324,15 @@ label {
   display: flex;
   align-items: flex-start;
   margin-bottom: 15px;
+  font-size: 20px;
 }
 .contact-info-box-content li:last-child {
   margin-bottom: 0;
 }
 .contact-info-box-content li i {
-  color: #ff5600;
+  color: #ffb22b;
   margin-right: 30px;
-  font-size: 16px;
+  font-size: 20px;
   margin-top: 3px;
 }
 .contact-info-box-content li span {
@@ -6462,9 +6463,9 @@ label {
 .fw-blog-post ul li .content .date {
   display: inline-block;
   font-size: 14px;
-  background-image: -moz-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: -webkit-linear-gradient(to right, #ff5600 30%, #ffa705 80%);
-  background-image: linear-gradient(to right, #ff5600 30%, #ffa705 80%);
+  background-image: -moz-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: -webkit-linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
+  background-image: linear-gradient(to right, #ffb22b 30%, #ffa705 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -6635,7 +6636,7 @@ label {
 }
 .loader .loader-outter {
   position: absolute;
-  border: 4px solid #ff5600;
+  border: 4px solid #ffb22b;
   border-left-color: transparent;
   border-bottom: 0;
   width: 100%;
@@ -6799,11 +6800,16 @@ label {
   animation: loader-inner 1s cubic-bezier(0.42, 0.61, 0.58, 0.41) infinite;
 }
 
-.footer-info-list, .footer-widget .social-links, .footer-widget .icon {
+.footer-info-list,
+.footer-widget .social-links,
+.footer-widget .icon {
   color: #aeaeae;
 }
 
-.footer-info-list a, .footer-info-list .address, .footer-widget .text, .footer-widget .mobile {
+.footer-info-list a,
+.footer-info-list .address,
+.footer-widget .text,
+.footer-widget .mobile {
   color: #aeaeae;
   font-family: "Roboto", sans-serif !important;
 }
